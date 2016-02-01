@@ -1,3 +1,3 @@
-# Lesson01 - Part 5
+# Lesson04 - Sample Azure
 
-Lesson01 - Part 5 for COMP392 - Advanced Graphics @ Centennial College
+Lesson04 - Sample Azure for COMP392 - Advanced Graphics @ Centennial College
