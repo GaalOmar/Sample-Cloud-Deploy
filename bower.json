@@ -1,0 +1,25 @@
+{
+  "name": "comp392lesson04-Azure-Example",
+  "authors": [
+    "GaalOmar <ga.alo.momar@gmail.com>"
+  ],
+  "description": "COMP392Lesson04 - Azure Example Advanced Graphics",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/GaalOmar/Sample-Cloud-Deploy.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "~0.72.0",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
